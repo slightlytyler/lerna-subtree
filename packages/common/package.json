@@ -1,0 +1,14 @@
+{
+  "name": "@lerna-subtree/common",
+  "version": "0.0.0",
+  "description": "These are the common modules for the lerna-subtree project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyler Martinez",
+  "license": "MIT",
+  "dependencies": {
+    "random-word": "^2.0.0"
+  }
+}
