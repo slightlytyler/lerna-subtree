@@ -1,0 +1,19 @@
+{
+  "name": "@lerna-subtree/service-2",
+  "version": "0.0.0",
+  "description": "The second package of the lerna-subtree project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/slightlytyler/lerna-subtree-service-2.git"
+  },
+  "author": "Tyler Martinez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slightlytyler/lerna-subtree-service-2/issues"
+  },
+  "homepage": "https://github.com/slightlytyler/lerna-subtree-service-2#readme"
+}
