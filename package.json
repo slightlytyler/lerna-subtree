@@ -1,0 +1,16 @@
+{
+  "name": "@lerna-subtree/root",
+  "version": "0.0.0",
+  "description": "An example of monorepo architecture with lerna and git subtrees.",
+  "scripts": {
+  },
+  "author": "Tyler Martinez",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:slightlytyler/lerna-subtree.git"
+  },
+  "devDependencies": {
+    "lerna": "2.0.0-beta.37"
+  }
+}
