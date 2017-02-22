@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/slightlytyler/lerna-subtree-service-2/issues"
   },
-  "homepage": "https://github.com/slightlytyler/lerna-subtree-service-2#readme"
+  "homepage": "https://github.com/slightlytyler/lerna-subtree-service-2#readme",
+  "dependencies": {
+    "@lerna-subtree/common": "0.0.0"
+  }
 }

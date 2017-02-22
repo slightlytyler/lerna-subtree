@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "description": "An example of monorepo architecture with lerna and git subtrees.",
   "scripts": {
-    "start": "node ./packages/service-1/index.js",
+    "service-1": "node ./packages/service-1/index.js",
+    "service-2": "node ./packages/service-2/index.js",
     "push-subtrees": "node ./subtree/push.js"
   },
   "author": "Tyler Martinez",

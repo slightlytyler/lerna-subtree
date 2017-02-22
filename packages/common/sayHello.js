@@ -1,5 +1,5 @@
 const generateWord = require('random-word');
 
-const sayHello = () => `Hello ${generateWord()}!`;
+const sayHello = additonalText => `Hello ${generateWord()}!${additonalText}`;
 
 module.exports = sayHello;
